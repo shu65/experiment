@@ -1,0 +1,14 @@
+order: 1
+templates:
+  - run_makeblastdb.py
+
+template_parameters:
+  out_log: [out.log]
+  err_log: [err.log]
+  computing_time_log: [computing_time.log]
+  id: [1, 2]
+
+
+
+
+
